@@ -177,8 +177,12 @@
     }
     #navig {
         display: none;
+        padding: 0px;
     }
     #navig > a {
         display: block;
+        width: 30vw;
+        margin: auto;
+        text-align: center;
     }
 }
