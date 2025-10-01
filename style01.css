@@ -47,6 +47,7 @@
     nav{
         text-align: left;
         padding: 15px 0px 0px 30px;
+        transition: 0.5s ease-in 0.2s;
     }
     nav>a{
         margin: 0px 5px;
